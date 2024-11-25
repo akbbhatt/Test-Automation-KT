@@ -1,0 +1,1 @@
+Test automation best practices: https://medium.com/@solanki.govinda/best-practices-for-designing-a-test-automation-framework-4e68ae7c3688
